@@ -1,0 +1,55 @@
+web page:
+
+java script:
+
+tech: java script
+
+to manipulate html page we need javscript
+
+programming lang / scripting lang
+c,cpp,java.. /js,python
+
+p/s lang:
+server side prog lang:java,python,c,cpp...
+client side prog lang:html css js
+client --> browser
+
+p/s lang:
+statically typed prog lang : when you declare a variable you need to define data tyoe it is called statically typed prog lang.
+c,cpp,java,....
+dynamically typed prog:when you declare a variable you dont need to define data type it is called dynamically typed prog lang
+js,python
+
+
+javascript run --->html ??? yes
+
+------------------------------------
+
+compilers:
+yes ?? babble --->
+
+all browser has diff js engines
+javascript was developed by Netscape community??
+Netscape community  -->
+firefox --> spider monkey
+chrome --> v8
+safari --> webkit
+edge --> chakra
+brave --> ????
+
+------------------------------>
+howmany ways we can write js
+1).js external js
+2) internal js
+3) inline js
+
+------------------------------------------------>
+HTML PAGE
+window object || browser object -->BOM -> browser object model
+document object || html page --> DOM -=> doucmen object model
+
+in javascript we have 3 keywords for variable decalaration
+
+var 
+let
+const
