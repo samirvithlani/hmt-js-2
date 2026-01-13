@@ -53,3 +53,10 @@ in javascript we have 3 keywords for variable decalaration
 var 
 let
 const
+
+
+in var re declareation is possible...
+in var re initilization is possible
+
+in let re declareation is not possible...
+in let re initilization is possible
