@@ -33,3 +33,15 @@ console.log(data)
 
 //find no of space in string....
 //find no of word in string...
+
+
+var sname = "jay patel"
+var spaceCount =0
+for(let i=0;i<sname.length;i++){
+    if(sname[i]==" "){
+        spaceCount++
+    }
+}
+
+console.log("space count..",spaceCount)
+console.log("word count..",spaceCount+1)
