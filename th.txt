@@ -60,3 +60,24 @@ in var re initilization is possible
 
 in let re declareation is not possible...
 in let re initilization is possible
+while
+
+string: collection of char..
+name ="raj" -- 'raj'  -->same
+data type of "" is string
+
+string is immutable..
+no modfication can be done with same ref
+string stores data in array
+name = "raman"
+
+r a m a n
+0 1 2 3 4
+
+name[0]= "R"
+
+string is iterable : loop run
+string is supscritable : index access
+
+
+
