@@ -81,3 +81,29 @@ string is supscritable : index access
 
 
 
+functions:
+2 type
+
+pre deinfe
+user define
+
+---------------->
+No return type no arg
+no return with arg
+with return type no arg
+wih with...
+
+------------------>
+void demo(){} //no no
+int sum() -->int retuen
+
+
+function keyword
+
+use of function??
+reusbality code..
+
+
+
+
+
