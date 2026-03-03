@@ -103,7 +103,8 @@ function keyword
 use of function??
 reusbality code..
 
-
+terneray operator:
+?:
 
 
 
