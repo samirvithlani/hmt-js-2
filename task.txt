@@ -1,0 +1,8 @@
+//declare 1 array : of numbers
+
+[100,20,45,67]
+
+check indx of elem
+20 -->index = 1
+
+200 inex = -1
