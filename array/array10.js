@@ -27,3 +27,11 @@ var companies = [
 
 //find all employees reliance compnay :
 //find All Founders of Facebook and print names only
+
+var emps = companies.find((com)=>com.name =="Reliance").employees.map((emp)=>emp.name)
+console.log(emps)
+
+//find all Founders
+
+var found = companies.map((c)=>c.employees).flatMap((e)=>e.filter((e1)=>e1.post=="Founder")).map((e2)=>e2.name)
+console.log(found)
