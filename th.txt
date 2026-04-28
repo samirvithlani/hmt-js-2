@@ -108,3 +108,10 @@ terneray operator:
 
 
 
+
+html -->tag --> 3 identifiers
+<h1 id> : unique <h1 id="text">
+<h1 name>: can be duplicate
+<h1 class> : can be dupicate css class
+
+

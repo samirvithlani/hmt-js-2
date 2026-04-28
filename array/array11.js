@@ -30,3 +30,11 @@ var productsData = [
 //Find total price of all products in "Clothing"
 //Get all products of brand "Apple" or "Nike"
 //Find the most expensive product from all categories
+
+var clothingprod = productsData.find((pd)=>pd.category=="Clothing").products.map((pr)=>pr.price).reduce((prev,next)=>prev+next,0)
+console.log(clothingprod)
+// var total =0
+// for(let i=0;i<clothingprod.length;i++){
+//     total+=clothingprod[i]
+// }
+// console.log(total)
